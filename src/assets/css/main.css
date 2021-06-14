@@ -1,0 +1,269 @@
+a {
+  color: white;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#application {
+  overflow: hidden;
+}
+
+.primaire {
+  color: #001370 !important;
+}
+.hover-primaire:hover {
+  color: #001370 !important;
+}
+.secondaire {
+  color: #cb9803 !important;
+}
+.btn-background {
+  background: #f0f2f2;
+}
+.bg-primaire {
+  background-color: #001370 !important;
+}
+.bg-secondaire {
+  background-color: #cb9803 !important;
+}
+.bg-dash {
+  background-color: #f0f1f3;
+}
+.bg-testiaire {
+  background: #131921 !important;
+}
+.testiaire {
+  color: #131921 !important;
+}
+
+.border-primaire {
+  border: 1px solid #001370;
+}
+.big-border-primaire {
+  border: 3px solid #001370;
+}
+.border-black {
+  border: 1px solid #000;
+}
+.border-grey {
+  border: 1px solid rgba(128, 128, 128, 0.247);
+}
+
+.bg-tkp {
+  background-color: rgb(241, 239, 239) !important;
+}
+
+.tkp-bg-colors {
+  background-color: rgb(166, 234, 255) !important;
+}
+
+.text-p {
+  font-size: 1rem;
+  font-weight: normal;
+}
+.btn {
+  width: 10rem;
+  cursor: pointer;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white !important;
+}
+
+.liste {
+  position: relative;
+}
+
+.liste li {
+  list-style: none;
+  margin-bottom: 1rem;
+  position: relative;
+}
+
+.liste ul a {
+  color: black;
+  font-size: 0.8rem;
+  transition: 0.3s all ease-in-out;
+}
+
+.liste ul a:hover {
+  color: rgb(55, 202, 246);
+}
+
+.bold {
+  font-weight: bold;
+}
+.lighter {
+  font-weight: lighter;
+}
+
+.sous-liste {
+  position: absolute;
+  right: -60%;
+  top: 0;
+  bottom: 0;
+  z-index: 3;
+}
+
+.sous-liste ul {
+  background: white;
+  height: 100%;
+}
+
+.carousel img {
+  width: 100% !important;
+  height: 1rem !important;
+}
+
+.v-responsive__content {
+  height: 1rem !important;
+}
+
+.border-b {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1) !important;
+}
+.border-t {
+  border-top: 1px solid rgba(0, 0, 0, 0.1) !important;
+}
+
+.border-r {
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
+}
+.border-l {
+  border-left: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.border-r-w {
+  border-right: 1px solid white;
+}
+.border-r-s {
+  border-right: 1px solid #cb9803;
+}
+
+/* Fenetre Modal */
+#modal-window {
+  z-index: 10 !important;
+  background: rgba(0, 0, 0, 0.473);
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+#modal-window *,
+#modal-window .modal-alert *,
+#modal-window .modals * {
+  z-index: 12 !important;
+}
+#modal-window .modal-alert {
+  min-height: 30vh;
+
+  width: 50vw;
+}
+#modal-window .modals {
+  min-height: 90vh;
+
+  width: 50vw;
+}
+
+@media screen and (max-width: 960px) {
+  .dash-main {
+    width: 100vw !important;
+  }
+  .sidenave {
+    width: 0 !important;
+  }
+}
+@media screen and (min-width: 900px) {
+  #modal-window .modals {
+    width: 50vw;
+  }
+}
+@media screen and (max-width: 900px) {
+  #modal-window .modal {
+    width: 50vw;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  #modal-window .modal {
+    width: 75vw;
+  }
+}
+@media screen and (max-width: 600px) {
+  #modal-window .modal {
+    width: 90vw;
+  }
+}
+@media screen and (max-width: 500px) {
+  #modal-window .modal {
+    width: 100vw;
+  }
+}
+
+/* authentification */
+
+#auth {
+  /* background: url(../stock/design/barners.jpg); */
+  /* background-color: #001370 !important; */
+  background-color: white !important;
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+}
+.log-btn {
+  background: #0a0096 !important;
+}
+#auth .auth {
+  /* height: 100vh; */
+}
+
+#auth .auth form {
+  width: 100%;
+  /* background-color: #051c91; */
+}
+@media screen and (max-width: 600px) {
+  #auth .auth-svg,
+  #auth .auth-svg * {
+    display: none !important;
+  }
+}
+/* Admin */
+#admin .main {
+  height: 100vh;
+  overflow-y: scroll;
+}
+
+/*  */
+.linear-bg-1 {
+  background: linear-gradient(45deg, #6114f0, rgb(101, 129, 255));
+}
+.linear-bg-2 {
+  background: linear-gradient(45deg, #f04014, rgb(248, 184, 47));
+}
+.linear-bg-3 {
+  background: linear-gradient(45deg, #14e1f0, rgb(38, 175, 95));
+}
+.linear-bg-4 {
+  background: linear-gradient(45deg, #e76258, rgb(255, 51, 24));
+}
+.sidenaves {
+  width: 15%;
+  /* margin-right: 1rem; */
+  position: sticky;
+  top: 0;
+  /* height: 100% !important; */
+}
+
+.dash-mains {
+  width: 85%;
+}

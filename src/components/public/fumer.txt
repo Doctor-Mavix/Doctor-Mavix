@@ -1,0 +1,97 @@
+About me
+Peter Oravec
+My name is Peter Oravec and I am a creative web developer with more than 12 years of experience. I'm currently based in Bratislava, Slovakia. My main focus lies on the front-end, JavaScript and Angular development.
+
+I also have rich experience as a backend developer, mostly in MEAN (MongoDB, ExpressJS, Angular, Node.js) stack.
+
+My first contact with web development was more than 12 years ago in high school. I liked how I can create something from nothing, so I spent a lot of time experimenting with PHP outside the school too.
+
+I learned everything by myself from the available resources (mostly books at that time) and I gradually became a graphic designer, coder and a backend developer in one person.
+
+
+
+From Lotus Notes to Javascript
+As my first official job, I worked for GAMO company, programming in Lotus Notes and doing also graphics and front-end. Lotus Notes was not my cup of coffee so I focused on JS, PHP and classical LAMP stack in the next couple of years.
+
+As JavaScript gradually began to be used also in the backend, I switched from PHP to node.js. It has become my main backend language and I’ve never regretted this decision.
+
+
+
+My Cup of Coffee
+I feel most comfortable developing SPA applications in Angular; ideally with some front-end animations (which is something I enjoy quite a lot). I have no problem to cover the backend with node.js and ExpressJS too.
+
+My strongest asset is that I am an interlink between the graphics, front-end and backend.
+
+
+
+
+
+
+
+CV 
+Curriculum Vitae
+After more than 12 years of working as a web developer, I would categorize myself as a Front-end or JavaScript developer.
+
+But I have a wider scope of knowledge including designing (I often worked closely with designers), front-end development (HTML5, CSS3, JS, Angular), backend development and open-source technologies (PHP, Node.js, WordPress) as well as my favorite MEAN stack.
+
+
+
+
+
+
+
+
+How does this portfolio work?
+Maybe you’re interested how does this portfolio work and how come that such a creative game works in browsers, tablets and mobiles.
+
+Answer is simple: Javascript + HTML 5 Canvas + Phaser Game Engine. It works mainly thanks to Phaser, which is a JS engine for 2D games creation. It enables you to work with sprite graphics, tilesets, physics and further gaming mechanics.
+
+Phaser Game engine
+Tiled map
+Gaming map in this portfolio is created from the so-called tilesheets in a program called TILED. It is actually an editor in which you create the design of your map in layers.
+
+The rest of the work consists of JSON and Javascript which will link it into one huge “game loop" which is triggered about 60x per second.
+
+Of course, it sounds simply but it requires enough knowledge, time and experience for creating similar game...
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 eme  
+
+Hi, I’m Matt. Nice to meet you.
+Since beginning my journey as a freelance designer nearly 10 years ago, I've done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.
+
+Salut, je suis Manoel Vital . . Ravi de vous rencontrer.
+Depuis le début de mon parcours en tant que designer indépendant il y a près de 10 ans, j'ai travaillé à distance pour des agences, consulté pour des startups et collaboré avec des personnes talentueuses pour créer des produits numériques à la fois pour les entreprises et les consommateurs. Je suis tranquillement confiant, naturellement curieux et je travaille constamment à l'amélioration de mes côtelettes, un problème de conception à la fois.
+
+
+
+
+Salut Je m'appelle SEGBANGNIDE Manoêl Vital et je suis un développeur web créatif avec plus de 3 ans d'expérience. Je travail sous le pseudo du Docteur Mavix . Je fais à la fois  le développement front-end :  Vue js ,JavaScript et back-end :  laravel et node js .
+
+
+Je maîtrise donc toute les étapes de conceptions d'un api REST et   j'ai beaucoup d'expérience dans le MEVN (MongoDB, ExpressJS, VueJs, Node.js) Stack
+
+Depuis le début de mon parcours en tant que développeur web fullstack indépendant , j'ai travaillé à distance pour des agences, consulté pour des startups et collaboré avec des personnes talentueuses pour créer des applications web  à la fois pour les entreprises et les consommateurs.
+
+
+Je suis tranquillement confiant, naturellement curieux et je travaille constamment à l'amélioration de mes côtelettes, un problème de conception à la fois.
+
+
+My first contact with web development was more than 12 years ago in high school. I liked how I can create something from nothing, so I spent a lot of time experimenting with PHP outside the school too.
+
+I learned everything by myself from the available resources (mostly books at that time) and I gradually became a graphic designer, coder and a backend developer in one person.
+
+
+
+Je me sens plus à l'aise pour développer des applications SPA dans Angular
